@@ -11,13 +11,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushverma" alt="ayushverma" /> </p>
 </br>
 
-- 🎯 Portfolio website: [Portfolio](https://aaugate.com/)
-- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
+- [businessES](https://aaugate.com/)
+- Your code’s crush is probably the semicolon you forgot.
 
 💻 *Thing(s) I love*
 
 - Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- (Figuring out) 🤓
+- Photographer
     <!---
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=ayuu-te&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
@@ -51,5 +51,5 @@
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 <div align="center">
-    <h3 align="center">The best else nothing</h3>
+    <h3 align="center">best else nothing</h3>
 </div>
