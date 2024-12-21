@@ -2,7 +2,7 @@
 <!-- https://miro.medium.com/max/2878/0*M50IPKZz58Fyy178.gif -->
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnY2ZWZ3bXpjOTIycHVjbmJ5dDN5ajY1bG02Zm5vMHExc2prdzVtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" alt="Coder GIF" width="400" height="400">
 
-### Hi there, I am Ayush Verma 👋
+### myself, Ayush Verma
 
 [![Linkedin Badge](https://img.shields.io/badge/-AyushVerma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayugate/)](https://www.linkedin.com/in/ayugate/)
 [![Gmail Badge](https://img.shields.io/badge/-ayushverma.8509@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayushverma.8509@gmail.com)](mailto:ayushverma.8509@gmail.com)
@@ -51,5 +51,5 @@
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 <div align="center">
-    <h3 align="center">⭐ : Show some &nbsp;❤️&nbsp; to my repositories!</h3>
+    <h3 align="center">The best else nothing</h3>
 </div>
