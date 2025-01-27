@@ -16,7 +16,7 @@
 
 *can leave my bed for*
 
-- Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- Web Development 
 - Photography
 - and ofc, that thing also
     <!---
