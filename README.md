@@ -11,19 +11,20 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushverma" alt="ayushverma" /> </p>
 </br>
 
-- [businessES](https://aaugate.com/)
+- [lots of stufffffff](https://aaugate.com/)
 - Your code’s crush is probably the semicolon you forgot.
 
-💻 *Thing(s) I love*
+*can leave my bed for*
 
 - Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- Photographer
+- Photography
+- and ofc, that thing also
     <!---
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=ayuu-te&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
     </a> --->
 
-🛠*Tech Stack*
+*Tech Stack*
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -50,6 +51,14 @@
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
+
+| Stats | Most Used Languages |
+|-------|--------------------|
+| ![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushverma&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushverma&layout=compact&theme=radical) |
+
+
 <div align="center">
-    <h3 align="center">best else nothing</h3>
+    <h3 align="center">nothing, else best</h3>
 </div>
+
+
