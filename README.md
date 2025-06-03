@@ -2,7 +2,7 @@
 <!-- https://miro.medium.com/max/2878/0*M50IPKZz58Fyy178.gif -->
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnY2ZWZ3bXpjOTIycHVjbmJ5dDN5ajY1bG02Zm5vMHExc2prdzVtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" alt="Coder GIF" width="400" height="400">
 
-### building products, not projects.
+## building products, not projects.
 
 [![Linkedin Badge](https://img.shields.io/badge/-AyushVerma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayugate/)](https://www.linkedin.com/in/ayugate/)
 [![Gmail Badge](https://img.shields.io/badge/-ayushverma.8509@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayushverma.8509@gmail.com)](mailto:ayushverma.8509@gmail.com)
@@ -24,7 +24,7 @@
       <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=ayuu-te&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
     </a> --->
 
-*Tech Stack*
+## *Tech Stack*
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -51,10 +51,11 @@
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
-
+<!--
 | Stats | Most Used Languages |
 |-------|--------------------|
 | ![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushverma&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushverma&layout=compact&theme=radical) |
+-->
 
 
 <div align="center">
